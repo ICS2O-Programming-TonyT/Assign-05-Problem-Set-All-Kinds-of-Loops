@@ -12,8 +12,8 @@ form.addEventListener('submit', function(event) {
   let number = integer;
   function multiplicationtable() {
     for (let counting = Minimum; counting <= Maximnum; counting++) {
-      number = integer*counting
-      string = string + `${integer} x ${counting} = ${number} <br>`
+      number = integer*counting;
+      string = string + `${integer} x ${counting} = ${number} <br>`;
     }
     return string
   }

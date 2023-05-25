@@ -1,5 +1,5 @@
 # Assign-05-Problem-Set-All-Kinds-of-Loops
-[![GitHub's Super Linter](https://github.com/CS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/CS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops/actions)
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops/actions)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/CS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops)](https://repl.it/github/CS2O-Programming-TonyT/Assign-05-Problem-Set-All-Kinds-of-Loops)
